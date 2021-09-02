@@ -29,7 +29,7 @@ Product.init(
       type: DataTypes.INTEGER,
       allowNull: false,
       // set default value to 10
-      defualtValue: '10',
+      defualtValue: 10,
       // validates the value is numeric
       validate: {
         isNumeric: true,
@@ -38,7 +38,7 @@ Product.init(
     category_id: {
       type: DataTypes.INTEGER,
       references: {
-        model: 'Category',
+        model: 'category',
         key: 'id',
       }
     }
