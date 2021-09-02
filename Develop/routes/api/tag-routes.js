@@ -38,7 +38,7 @@ router.get('/:id', (req, res) => {
 router.post('/', (req, res) => {
   // create a new tag
   try {
-    const locationData = await Category.create({
+    const locationData = await Tag.create({
       tag_name: req.body.tag_name,
     });
     res.status(200).json(locationData);
@@ -72,7 +72,7 @@ router.delete('/:id', (req, res) => {
   try {
     const tagDelete = await Tag.destroy({
       where: {
-        id: req.params.id,
+        tag_id: req.params.tag_id,
       },
     });
 

@@ -10,7 +10,7 @@ router.get('/', (req, res) => {
     const productData = await Product.findAll({
       include: [{ model: Category }, { model: Tag }],
     });
-    res.status(200).json(categoryData);
+    res.status(200).json(productData);
   } catch (err) {
     res.status(500).json(err);
   }
@@ -40,7 +40,7 @@ router.get('/:id', (req, res) => {
 router.post('/', (req, res) => {
   try {
     const productData = await Product.create({
-      product_name: req.body.tag_id,
+      product_name: req.body.product_name,
     });
     res.status(200).json(productData);
   } catch (err) {
