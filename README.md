@@ -6,7 +6,7 @@
   
   ## Table of Contents
   
-  [Installation](https://github.com/ilelandhayes#Installation)
+  [Installation](https://github.com/ilelandhayes/E-Commerce-Application#Installation)
 
 
   [Usage Of](https://github.com/ilelandhayes#Usage-Of)
@@ -15,7 +15,7 @@
   [How to Contribute](https://github.com/ilelandhayes#How-to-Contribute)
 
 
-  [Testing](https://github.com/ilelandhayes#Testing)
+  [Demo](https://github.com/ilelandhayes#Demos)
 
 
   [License](https://github.com/ilelandhayes#License)
@@ -43,13 +43,13 @@
   
   ## Usage Of
   
-  After installation open Imsomnia to make api calls for the data
+  After installation is complete, open Insomnia to make api calls for the data
   
   ## How to Contribute
   
   Any contributions are welcome!
   
-  ## Demos
+  ## Demo Videos
 
 
   ## License
