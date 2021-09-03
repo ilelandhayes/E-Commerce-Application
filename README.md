@@ -2,7 +2,7 @@
 
   ## Description
   
-  This is a back end based E-Commerce application, ran off RESTful api routes that was created using Sequelize, while also incorporating Node.js ORM for Mysql. Allowing the user to Read, Create, Update, and Delete data. With four Models in the data being Categories, Products, Tags, and ProductTags. All having one to many or many to many relationships.
+  This is a back end based E-Commerce application, ran off RESTful api routes that was created using Sequelize, while also incorporating Node.js ORM for Mysql. Allowing the user to Read, Create, Update, and Delete data. With four Models in the data being Categories, Products, Tags, and ProductTags. All having one-to-many or many-to-many relationships.
   
   ## Table of Contents
   
@@ -25,6 +25,8 @@
   
   ## Installation
   
+  Make sure the .env file has all your information to run correctly (ex. User = "Fill in info", Password = "Fill in info")
+
   1. Clone the repo 
 
   2. Run "npm i" in the intergrated terminal 
@@ -49,7 +51,7 @@
   
   ## Demos
 
-  
+
   ## License
   
   This repository is released under the license of: [MIT](https://opensource.org/licenses/MIT)
