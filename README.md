@@ -9,19 +9,19 @@
   [Installation](https://github.com/ilelandhayes/E-Commerce-Application#Installation)
 
 
-  [Usage Of](https://github.com/ilelandhayes#Usage-Of)
+  [Usage Of](https://github.com/ilelandhayes/E-Commerce-Application#Usage-Of)
 
 
-  [How to Contribute](https://github.com/ilelandhayes#How-to-Contribute)
+  [How to Contribute](https://github.com/ilelandhayes/E-Commerce-Application#How-to-Contribute)
 
 
-  [Demo](https://github.com/ilelandhayes#Demos)
+  [Demo](https://github.com/ilelandhayes/E-Commerce-Application#Demos)
 
 
-  [License](https://github.com/ilelandhayes#License)
+  [License](https://github.com/ilelandhayes/E-Commerce-Application#License)
 
 
-  [Questions](https://github.com/ilelandhayes#Questions)
+  [Questions](https://github.com/ilelandhayes/E-Commerce-Application#Questions)
   
   ## Installation
   
